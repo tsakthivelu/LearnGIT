@@ -252,4 +252,4 @@ paket-files/
 *.sln.iml
 
 #Ignore Folder
-#Folder1/
+Folder1/
